@@ -1,1 +1,4 @@
 Hi, My name is Benedic de Guzman
+
+I am a 4th year BS Computer Science student at De La Salle University - Dasmariñas.
+I recently finished my internship at Cawil.AI, and that is all about Computer Vision and Machine Learning.
